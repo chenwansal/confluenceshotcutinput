@@ -6,6 +6,7 @@ https://www.tampermonkey.net/
 # 使用 | How To Use
 1. 复制 ConfluenceShotcutInput.js 代码文本到油猴脚本
 1. Copy "ConfluenceShotcutInput.js" text to Tampermonkey Browser Plugin
+
 2. 启用脚本
 2. Activate script
  
